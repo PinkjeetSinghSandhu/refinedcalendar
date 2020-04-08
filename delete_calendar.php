@@ -10,3 +10,4 @@ $statement = $connect->prepare($query);
    ':id' => $_POST['id']
   )
  );
+?>
